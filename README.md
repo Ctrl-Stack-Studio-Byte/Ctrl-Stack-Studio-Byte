@@ -18,7 +18,7 @@
 ### 📈 Current Activity
 - 🔭 **Research:** Exploring the integration of **Python-based data analytics** into **C# industrial frameworks**.
 - 🏗️ **Projects:** Developing open-source toolkits for stable hardware-to-PC communication.
-- 🌐 **Language:** English (Intermediate / Technical reading), Japanese (Self-studying), **Chinese (Mandarin/Cantonese):** Native.
+- 🌐 **Language:** English (Intermediate / Technical reading), **Chinese (Mandarin/Cantonese):** Native.
 
 ---
 
